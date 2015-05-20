@@ -16,7 +16,7 @@
         "icon":         "icons-mfd-png.png",
         "mode":         "none",
         "keywords":     ["icons", "mfd", "knx"],
-        "extIcon":      "https://raw.githubusercontent.com/ioBroker/ioBroker.icons-mfd-png/master/admin/icons-mfd-png.svg",
+        "extIcon":      "https://raw.githubusercontent.com/ioBroker/ioBroker.icons-mfd-png/master/admin/icons-mfd-png.png",
         "readme":       "https://github.com/ioBroker/ioBroker.icons-mfd-png/blob/master/README.md",
         "loglevel":     "info",
         "dependencies": ["web"],
