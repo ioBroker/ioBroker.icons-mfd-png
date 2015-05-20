@@ -1,0 +1,35 @@
+{
+    "common": {
+        "name":         "icons-mfd-png",
+        "version":      "0.1.0",
+        "title":        "Mfd icons as PNG",
+        "desc":         {
+            "en": "Icon set for visualisation for home automation as PNG.",
+            "de": "Bildersatz für die Visualisierung von Hausautomatisierung als PNG",
+            "ru": "Набор иконок для визуализации дома в PNG"
+        },
+        "authors": [
+            "mfd<mfd.gfx@gmail.com>",
+            "bluefox <bluefox@ccu.io>"
+        ],
+        "platform":     "javascript/Node.js",
+        "icon":         "icons-mfd-png.png",
+        "mode":         "none",
+        "keywords":     ["icons", "mfd", "knx"],
+        "extIcon":      "https://raw.githubusercontent.com/ioBroker/ioBroker.icons-mfd-png/master/admin/icons-mfd-png.svg",
+        "readme":       "https://github.com/ioBroker/ioBroker.icons-mfd-png/blob/master/README.md",
+        "loglevel":     "info",
+        "dependencies": ["web"],
+        "enabled":      true,
+        "onlyWWW":      true,
+        "singleton":    true,
+		"type":         "visualisation",
+        "localLink":    "http://%ip%:%web_port%/icons-mfd-png/index.html",
+        "license":      "CC BY-SA 3.0"
+    },
+    "native": {
+
+    },
+    "objects": [
+    ]
+}
