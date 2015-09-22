@@ -15,6 +15,9 @@ User: mfd
 - install "icons-mfd-png" icon set (as adapter) and navigate in ioBroker.vis in image selector dialog to "/icons-mfd-png/".
 
 ## Changelog
+### 0.1.1 (2015-09-22)
+* (bluefox) add index.html for preview
+
 ### 0.1.0 (2015-05-20)
 * (bluefox) initial commit
 
