@@ -1,7 +1,7 @@
 {
     "common": {
         "name":         "icons-mfd-png",
-        "version":      "0.1.2",
+        "version":      "1.0.0",
         "title":        "Mfd icons as PNG",
         "desc":         {
             "en": "Icon set for visualisation for home automation as PNG.",
@@ -10,7 +10,7 @@
         },
         "authors": [
             "mfd<mfd.gfx@gmail.com>",
-            "bluefox <bluefox@ccu.io>"
+            "bluefox <dogafox@gmail.com>"
         ],
         "platform":     "javascript/Node.js",
         "icon":         "icons-mfd-png.png",
