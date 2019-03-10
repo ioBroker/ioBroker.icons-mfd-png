@@ -2,7 +2,7 @@
 ioBroker.icons-mfd-png
 =================
 
-[![NPM version](http://img.shields.io/npm/v/iobroker.icons-mfd-png.png)](https://www.npmjs.com/package/iobroker.icons-mfd-png)
+![Number of Installations](http://iobroker.live/badges/icons-mfd-png-installed.svg) ![Number of Installations](http://iobroker.live/badges/icons-mfd-png-stable.svg) [![NPM version](http://img.shields.io/npm/v/iobroker.icons-mfd-png.png)](https://www.npmjs.com/package/iobroker.icons-mfd-png)
 [![Downloads](https://img.shields.io/npm/dm/iobroker.icons-mfd-png.png)](https://www.npmjs.com/package/iobroker.icons-mfd-png)
 
 [![NPM](https://nodei.co/npm/iobroker.icons-mfd-png.png?downloads=true)](https://nodei.co/npm/iobroker.icons-mfd-png/)
